@@ -1,0 +1,5 @@
+BSQ is a group project.
+
+BSQ = Biggest SQuare.
+
+In this project we were red map and tried to place biggest square in this map avoiding walls and special symbols. In input was map with the biggest possible square in this map.
